@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+ @main
 struct ScrumdingerApp: App {
     @State private var scrums = DailyScrum.sampleDataMe
     
